@@ -1,0 +1,10 @@
+# Ignore everything
+*
+.idea
+# But descend into directories
+# You can be specific with these rules
+!.gitignore
+!*.c
+!*.h
+!README.md
+!makefile
